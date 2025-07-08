@@ -1,0 +1,10 @@
+1. What is the role of react in software development ?
+2. What is react ?
+3. What is SPA (Single page application)?
+4. What are the advantages of using react ?
+5. What are the dis advantages of using react ?
+6. What is the difference between react and angular ?
+7. What is DOM ?
+8. What is the difference between DOM and Virtual DOM ?
+9. What are components in react ?
+10. How to setup react first project ?
