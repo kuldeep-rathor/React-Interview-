@@ -1,0 +1,11 @@
+1.What is JSX?
+2.What are the advantages of JSX?
+3.Can a browser read a JSX file? What is Babel?
+4.What is transpiler?
+5.Is it  possible to create JSX code without react?
+6.What is the role of  fragments in react?
+7.How do ypu iterate over a list in JSX ? what is map() method ?
+8.What are props in JSX?
+9.What are spread operators?
+10.What are the types of conditional rendering in JSX? -> 4
+
