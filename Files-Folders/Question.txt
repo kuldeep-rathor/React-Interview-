@@ -1,0 +1,10 @@
+1.What is npm ? what is the role of node_modules folder?
+2.What is the role of public folder in react ?
+3.What is the role of src folder in react ?
+4.What is the role of index.html file in react ?
+5.What is the role of app.js file in react ?
+6.What is the role of function and return in the app.js  file in react ?
+7.Can we have function without return in the app.js file in react ?
+8.What is the role of export default in app.js on react ?
+9.What is the role of index.js file , ReactDOM and render method in react ?
+10.How react app load & display the components in browser ?
